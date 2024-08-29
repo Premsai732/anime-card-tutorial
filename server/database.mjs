@@ -90,3 +90,15 @@ export const animeData =[
    rating: 7.8
   }
 ]
+export const users = [  
+  {    
+    id: 1,    
+    username: "admin",    
+    password: "admin"  
+  },
+  {    
+    id: 2,    
+    username: "user",    
+    password: "user"  
+  }
+]
